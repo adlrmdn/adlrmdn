@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Adr 👋
 
 🔭 I’m currently working on **Python & Machine Learning**  
 🌱 Learning **Rust & Distributed AI**  
